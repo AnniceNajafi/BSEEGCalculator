@@ -5,7 +5,6 @@
 #'Discription: This is a web-based application designed to detect delirium in mice. For the application to work, 
 #'bispectral EEG files in the European Data Format have to be uploaded to the application.
 
-
 #Load related libraries
 library(shiny)
 library(shinycssloaders)
@@ -1133,3 +1132,6 @@ server <- function(input, output, session){
 }
 #run the shiny app
 shinyApp(ui = ui, server=server)
+
+#Annice Najafi
+#Spring 2020
