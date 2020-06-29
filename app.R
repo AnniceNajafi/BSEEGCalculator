@@ -2,7 +2,7 @@
 #' The University of Iowa, Carver College of Medicine, Department of Psychiatry
 #' Spring 2020
 #' 
-#'Discription: This is a web-based application designed to detect delirium in mice. For the application to work, 
+#'Description: This is a web-based application designed to detect delirium in mice. For the application to work, 
 #'bispectral EEG files in the European Data Format have to be uploaded to the application.
 
 #Load related libraries
